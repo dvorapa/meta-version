@@ -12,7 +12,7 @@ Spec for the `version` meta extension
 
 ## Description
 
-`version` meta extension is specified to offer a possibility to write out version of web application. The version specified in the `version` meta extension SHOULD SERVE FOR informative or machine-read purposes. This specification SHOULD BE USED FOR project, which updates not so frequently and which follows the [Semantic Versioning](http://semver.org/) specification. If this two requirements are fulfilled, the `version` meta extension SHOULD BE USED EITHER at the mainsite of the project OR at all sites, belonging to the project.
+`version` meta extension is specified to offer a possibility to write out version of web application. The version specified in the `version` meta extension SHOULD SERVE FOR informative or machine-read purposes. This specification SHOULD BE USED FOR project, which is being updated not so frequently and which follows the [Semantic Versioning](http://semver.org/) specification. If this two requirements are fulfilled, the `version` meta extension SHOULD BE USED EITHER at the mainsite of the project OR at all sites, belonging to the project.
 
 ## Specification
 
