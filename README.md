@@ -20,7 +20,7 @@ The `content` of the `version` meta extension SHOULD CONTAIN only one version st
 
 ## Synonyms
 
-* `page-version` due to backward compatibility
+* `page-version` due to backward compatibility, deprecated
 
 ## Status
 
