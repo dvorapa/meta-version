@@ -28,7 +28,7 @@ The `content` of the `version` meta extension SHOULD CONTAIN only one version st
 
 ## Example
 
-[author's website](http://www.dvorapa.cz/)
+* [author's website](http://www.dvorapa.cz/)
 
 ## Author
 
