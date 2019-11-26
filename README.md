@@ -34,6 +34,8 @@ The `content` of the `version` meta extension SHOULD CONTAIN only one version st
 
 [Pavel Dvořák](https://github.com/dvorapa) ([@dvorapa](https://twitter.com/dvorapa))
 
+You might want to buy me a [beer 🍺](https://paypal.me/dvorapa) or a [coffee ☕](https://paypal.me/dvorapa).
+
 ## License
 
 [CC0 1.0 Universal](https://github.com/dvorapa/meta-version/blob/master/LICENSE)
