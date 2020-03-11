@@ -28,13 +28,13 @@ The `content` of the `version` meta extension SHOULD CONTAIN only one version st
 
 ## Example
 
-* [author's website](http://www.dvorapa.cz/)
+* [author's website](https://www.dvorapa.cz/)
 
 ## Author
 
 [Pavel Dvořák](https://github.com/dvorapa) ([@dvorapa](https://twitter.com/dvorapa))
 
-You might want to buy me a [beer 🍺](https://paypal.me/dvorapa) or a [coffee ☕](https://paypal.me/dvorapa).
+You might want to buy me a [hot chocolate ☕](https://paypal.me/dvorapa).
 
 ## License
 
